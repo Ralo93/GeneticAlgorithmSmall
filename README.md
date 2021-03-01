@@ -14,7 +14,7 @@ Matlab
 
 ## Illustrations
 ![learner](https://user-images.githubusercontent.com/78420756/109501097-6b132800-7a97-11eb-8149-4276cd6c2b92.PNG) <br>
-Top row: Steady state error, overshoot and settling time of tuned PID controllers. <br>
+Top row: Steady state error, overshoot and settling time of the control system with tuned PID controllers. <br>
 Bottom row: P, I and D gain at runtime.
 
 ## Project status
