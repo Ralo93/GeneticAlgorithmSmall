@@ -1,4 +1,5 @@
 ## General info
+**An Idea of Using Reinforcement Learning in Adaptive Control Systems** <br>
 This is an implementation of [this](https://ieeexplore.ieee.org/abstract/document/1628435) scientific paper, published in 2006. The implementation is part of an initiative 
 of the chair of control engineering at the university of Augsburg, to bring machine learning closer to the students.
 
